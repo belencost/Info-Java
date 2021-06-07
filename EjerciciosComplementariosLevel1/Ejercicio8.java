@@ -9,7 +9,7 @@ public class Ejercicio8{
     int edad = scan.nextInt();
     System.out.println("Direccion: ");
     String direccion = scan.nextLine();
-    System.out.println("Ciudad: ");
+    System.out.println("iudad: ");
     String ciudad = scan.nextLine();
     Persona persona1 = new Persona(nombreyA, edad, direccion, ciudad);
     scan.close();
