@@ -1,2 +1,2 @@
 #Ignora los archivos de clase
-.class
+*.class
