@@ -1,4 +1,12 @@
-# Info-Java
-Ejercicios en java realizados para el Informatorio 2021 
+# Informatorio 2021
 
-Todos los ejercicios se encuentran en la rama Master del repositorio en la carpeta de su nivel correspondiente
+## Aprendiendo Java
+
+###### Introducción - Fijando conceptos [Practica guiada](https://pages.github.com/)
+
+###### Ejercicios complementarios [Level 1](https://github.com/belencost/Info-Java/tree/master/EjerciciosComplementariosLevel1)
+
+###### Ejercicios complementarios [Level 2](https://github.com/belencost/Info-Java/tree/master/EjerciciosComplementariosLevel2)
+
+###### Otros Ejercicios [Propuestos en clase](https://pages.github.com/)
+
