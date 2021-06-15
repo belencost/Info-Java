@@ -8,5 +8,5 @@
 
 ###### 🌱 Ejercicios complementarios [Level 2](https://github.com/belencost/Info-Java/tree/master/EjerciciosComplementariosLevel2)
 
-###### 🌱 Otros Ejercicios [Propuestos en clase](https://pages.github.com/)
+###### 🌱 Otros Ejercicios [Propuestos en clase](https://github.com/belencost/Info-Java/tree/master/PropuestosClase)
 
