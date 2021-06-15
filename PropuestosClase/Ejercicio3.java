@@ -3,6 +3,8 @@ Dado un archivo de texto (alumnos.txt), crear una función que lea todos los nomb
 Observación:
 Cada línea del archivo representa un nombre de alumno.
 */
+
+
 import java.io.File;
 import java.io.BufferedReader;
 import java.io.IOException;
